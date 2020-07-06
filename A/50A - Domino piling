@@ -1,0 +1,4 @@
+    inp = list(map(int,input().split()))
+    m = inp[0]
+    n = inp[1]
+    print((m*n) //2 )
